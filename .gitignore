@@ -31,3 +31,6 @@ proguard/
 
 ### Android Patch ###
 gen-external-apklibs
+
+*.sw*
+*.iml
