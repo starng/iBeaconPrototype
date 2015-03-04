@@ -34,3 +34,4 @@ gen-external-apklibs
 
 *.sw*
 *.iml
+.idea/
